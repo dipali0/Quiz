@@ -1,0 +1,82 @@
+[
+ {
+    "question": " The Luna Programme was a series of unmanned space mission launched by which country? ", 
+    "choice1":"Soviet Union",
+    "choice2":"United States of America",
+    "choice3":"China",
+    "choice4":"None of the above",
+    "answer": 1
+  },
+  {
+    "question": " Which of the following was the first artificial satellite? ", 
+    "choice1":"Lander Beagle",
+    "choice2":"Sojourner",
+    "choice3":"Apollo 11",
+    "choice4":"Sputnik 1",
+    "answer": 4
+  },
+  {
+    "question": "Who is the first Indian woman to win an Asian Games gold in 400m run? ", 
+    "choice1":"M.L.Valsamma",
+    "choice2":"P.T.Usha",
+    "choice3":"Kamaljit Sandhu",
+    "choice4":"K.Malleshwari",
+    "answer": 3
+  },
+  {
+    "question": "In which decade was the American Institute of Electrical Engineers (AIEE) founded? ",  
+    "choice1":"1850s",
+    "choice2":"1884s",
+    "choice3":"1930s",
+    "choice4":"1950s",
+    "answer":2 
+  },
+  {
+    "question":"'OS' computer abbreviation usually means ?",
+    "choice1":"Order of Significance",
+    "choice2":"Open Software",
+    "choice3":"Operating System",
+    "choice4":"Optical Sensor",
+    "answer":3
+  },
+  {
+    "question":"What is part of a database that holds only one type of information?",
+    "choice1":"Report",
+    "choice2":"Field",
+    "choice3":"Record",
+    "choice4":"File",
+    "answer":2
+  },
+  {
+    "question":"Philology is the",
+    "choice1":"study of bones",
+    "choice2":"study of muscles",
+    "choice3":"study of  architecture",
+    "choice4":"science of languages",
+    "answer":4
+  },
+  {
+    "question":"In which year of First World War Germany declared war on Russia and France?",
+    "choice1":"1914",
+    "choice2":"1915",
+    "choice3":"1918",
+    "choice4":"1916",
+    "answer":1
+  },
+  {
+    "question":"India's first ocean wave's energy project was launched in",
+    "choice1":"1981",
+    "choice2":"1991",
+    "choice3":"1995",
+    "choice4":"2000",
+    "answer":2
+  },
+  {
+    "question":"B. C. Roy Award is given in the field of",
+    "choice1":"Music",
+    "choice2":"Journalism",
+    "choice3":"Medicine",
+    "choice4":"Environment",
+    "answer":3
+  },
+];
